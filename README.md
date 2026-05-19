@@ -8,7 +8,7 @@
   <strong>Landing page de alta performance para a plataforma de emissão fiscal de transporte mais rápida do Brasil.</strong>
 </p>
 
-<p align="center">
+<p align="center"> 
   <img src="https://img.shields.io/badge/Next.js-15.3-black?logo=next.js&logoColor=white" alt="Next.js 15" />
   <img src="https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=white" alt="React 19" />
   <img src="https://img.shields.io/badge/TypeScript-5.7-3178C6?logo=typescript&logoColor=white" alt="TypeScript" />
