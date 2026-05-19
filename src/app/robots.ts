@@ -8,4 +8,4 @@ export default function robots(): MetadataRoute.Robots {
     },
     sitemap: 'https://cargafy.com.br/sitemap.xml',
   }
-} F
+}
