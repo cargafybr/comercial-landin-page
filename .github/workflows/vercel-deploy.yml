@@ -1,0 +1,26 @@
+name: Vercel Deploy
+
+on:
+  push:
+    branches:
+      - develop
+      - main
+
+jobs:
+  deploy-homolog:
+    if: github.ref == 'refs/heads/develop'
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Trigger Vercel Homolog
+        run: |
+          curl -X POST "https://api.vercel.com/v1/integrations/deploy/prj_4AeobjEky9dOkWQiaA87qO89XNFM/JZ39ycQZqO"
+
+  deploy-prod:
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Trigger Vercel Production
+        run: |
+          curl -X POST "https://api.vercel.com/v1/integrations/deploy/prj_4AeobjEky9dOkWQiaA87qO89XNFM/kDQZG59dEb"
