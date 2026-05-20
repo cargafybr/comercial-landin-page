@@ -69,6 +69,9 @@ export const metadata: Metadata = {
     shortcut: '/images/logo_cargafy.ico',
     apple: '/images/logo_cargafy.jpg',
   },
+  verification: {
+    google: '0fdi7AL-XzBoY6RUBBH_lblyjdQElah2gsEvW2UoxmM',
+  },
 }
 
 const jsonLd = {
