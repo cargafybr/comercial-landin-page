@@ -85,14 +85,11 @@ const jsonLd = {
     url: 'https://cargafy.com.br',
     contactPoint: [
       { '@type': 'ContactPoint', telephone: '+55-11-99459-9115', contactType: 'sales', areaServed: 'BR', availableLanguage: 'Portuguese' },
-      { '@type': 'ContactPoint', telephone: '+55-49-9826-6688', contactType: 'sales', areaServed: 'BR', availableLanguage: 'Portuguese' },
     ],
     address: [
       { '@type': 'PostalAddress', addressLocality: 'São Caetano do Sul', addressRegion: 'SP', addressCountry: 'BR' },
-      { '@type': 'PostalAddress', addressLocality: 'Lages', addressRegion: 'SC', addressCountry: 'BR' },
     ],
   },
-  aggregateRating: { '@type': 'AggregateRating', ratingValue: '5.0', reviewCount: '200' },
 }
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {

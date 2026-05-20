@@ -18,8 +18,7 @@
 
 <p align="center">
   <a href="https://cargafy.com.br" target="_blank">🌐 cargafy.com.br</a> ·
-  <a href="https://wa.me/5511994599115" target="_blank">💬 WhatsApp SP</a> ·
-  <a href="https://wa.me/5549982666688" target="_blank">💬 WhatsApp SC</a> ·
+  <a href="https://wa.me/5511994599115" target="_blank">💬 WhatsApp</a> ·
   <a href="mailto:contato@cargafy.com.br">📧 contato@cargafy.com.br</a>
 </p>
 
@@ -390,5 +389,5 @@ Todos os direitos reservados © 2025.
 ---
 
 <p align="center">
-  Feito com 💙 por <strong>CargaFy Tecnologia</strong> — São Caetano do Sul/SP & Lages/SC
+  Feito com 💙 por <strong>CargaFy Tecnologia</strong> — São Caetano do Sul/SP
 </p>

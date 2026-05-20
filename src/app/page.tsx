@@ -5,7 +5,6 @@ import Modules from '@/components/Modules'
 import Features from '@/components/Features'
 import HowItWorks from '@/components/HowItWorks'
 import Integrations from '@/components/Integrations'
-import SobreNos from '@/components/SobreNos'
 import MissaoValores from '@/components/MissaoValores'
 import CTASection from '@/components/CTASection'
 import Footer from '@/components/Footer'
@@ -21,7 +20,6 @@ export default function Home() {
         <Features />
         <HowItWorks />
         <Integrations />
-        <SobreNos />
         <MissaoValores />
         <CTASection />
       </main>

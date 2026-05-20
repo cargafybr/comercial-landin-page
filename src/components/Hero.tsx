@@ -45,14 +45,6 @@ export default function Hero() {
               Falar no WhatsApp
             </a>
           </div>
-
-          {/* Social Proof */}
-          <div className="flex items-center gap-2.5">
-            <span className="text-yellow-400 text-[15px] tracking-wider">★★★★★</span>
-            <span className="text-[13px] text-slate-600 dark:text-slate-400">
-              <strong className="text-slate-800 dark:text-white">5.0</strong> no Google · +200 transportadoras ativas
-            </span>
-          </div>
         </div>
 
         {/* Visual */}
